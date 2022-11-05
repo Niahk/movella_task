@@ -1,0 +1,2 @@
+DEBUG   -   2010-07-20 10:10:26,580 - text_file - debug message
+DEBUG   -   2010-07-20 10:10:26,700 - text_file - warn message

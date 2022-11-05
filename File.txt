@@ -1,0 +1,8 @@
+DEBUG   -   2010-07-20 10:10:26,580 - text_file - debug message
+INFO    -   2010-07-20 10:10:26,620 - text_file - info message
+DEBUG   -   2010-07-20 10:10:26,700 - text_file - warn message
+INFO    -   2010-07-21 10:10:26,720 - text_file - info message
+ERROR   -   2010-07-21 10:10:26,800 - text_file - error message
+INFO    -   2010-07-21 10:10:26,830 - text_file - info message
+ERROR   -   2010-07-21 10:10:26,700 - text_file - critical message
+INFO    -   2015-05-22 16:46:46,985 - text_file - Starting to Wait for Files

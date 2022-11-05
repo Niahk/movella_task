@@ -1,0 +1,2 @@
+ERROR   -   2010-07-21 10:10:26,800 - text_file - error message
+ERROR   -   2010-07-21 10:10:26,700 - text_file - critical message
